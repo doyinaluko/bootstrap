@@ -1,0 +1,93 @@
+body{
+  background-color: #FFDEAD;
+}
+
+.btn {
+  font-weight: 700 ;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44;
+}
+
+.btn-primary:hover {
+  background-color: #EE4B08;
+  border-color: #EE4B08;
+  border-width: 4px;
+}
+
+
+
+
+
+.img-pussinboots{
+  width: 450px;
+  height: 450px;
+}
+
+.img-supermario{
+  width: 450px;
+  height: 450px;
+}
+
+.img-ambulance{
+  width: 450px;
+  height: 450px;
+}
+
+.img-uncharted{
+  width: 450px;
+  height: 450px;
+}
+
+.img-topgun{
+  width: 450px;
+  height: 450px;
+}
+
+.img-rush{
+  width: 450px;
+  height: 450px;
+}
+
+.img-rise{
+  width: 450px;
+  height: 450px;
+}
+
+.img-3-idiots{
+  width: 450px;
+  height: 450px;
+}
+.img-air{
+  width: 450px;
+  height: 450px;
+}
+
+.img-womanking{
+  width: 450px;
+  height: 450px;
+}
+
+.img-senna{
+  width: 450px;
+  height: 450px;
+}
+
+.img-thebadguys{
+  width: 450px;
+  height: 450px;
+}
+
+.img-encanto{
+  width: 450px;
+  height: 450px;
+}
+
+.img-sonic{
+  width: 450px;
+  height: 450px;
+}
